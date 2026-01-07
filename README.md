@@ -48,7 +48,7 @@ Beginner-friendly Python code
 
 ---
 
- Algorithm Used
+# Algorithm Used
 
 Binary Search
 
