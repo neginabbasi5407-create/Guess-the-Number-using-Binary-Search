@@ -6,7 +6,7 @@ You think of a number, and the computer tries to guess it in as few attempts as 
 
 ---
 
- How the Game Works
+# How the Game Works
 
 1. You think of a number between 1 and 100 (you can change this range).
 
@@ -34,7 +34,7 @@ Correct → c
 
 ---
 
- Features
+# Features
 
 Computer guesses intelligently using Binary Search
 
